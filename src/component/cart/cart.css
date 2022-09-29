@@ -1,0 +1,56 @@
+ .cart-container {
+     background-color: antiquewhite;
+     position: sticky;
+     top: 0;
+     padding: 20px;
+ }
+
+ .profile {
+     display: flex;
+ }
+
+ .box {
+     display: flex;
+     justify-content: space-around;
+     background-color: azure;
+     border-radius: 10px;
+     padding: 0 10px;
+
+ }
+
+ .box div {
+     margin: 10px;
+     /* border: 2px solid black; */
+ }
+
+
+
+ .btn button {
+     border-radius: 50px;
+     padding: 10px;
+     margin: 5px;
+ }
+
+ .exercise {
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     background-color: rgb(129, 138, 146);
+     margin: 5px;
+     border-radius: 10px;
+ }
+
+ .activity-btn {
+     margin-top: 10px;
+     border: none;
+     padding: 8px 30px;
+     border-radius: 20px;
+     font-size: 18px;
+     background-color: rgb(20, 220, 187);
+     color: white;
+     font-weight: bold;
+ }
+
+ .activity-btn:hover {
+     background-color: rgba(199, 57, 57, 0.651);
+ }

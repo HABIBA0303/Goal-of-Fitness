@@ -1,0 +1,33 @@
+.header {
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 140px 0 140px;
+
+}
+
+.logo {
+    background-color: crimson;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(206, 172, 172);
+}
+
+
+
+.header a {
+    color: rgb(204, 172, 172);
+    text-decoration: none;
+    margin-left: 36px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header a:hover {
+    color: orangered;
+
+}

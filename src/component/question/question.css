@@ -1,0 +1,7 @@
+.question {
+    margin: 50px;
+    padding: 20px;
+    border: 2px solid rgb(230, 209, 209);
+    background-color: rgb(190, 142, 80);
+    border-radius: 10px;
+}

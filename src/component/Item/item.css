@@ -1,0 +1,33 @@
+.items {
+    width: 300px;
+    border: 1px solid #53aadf;
+    border-radius: 8px;
+    background-color: rgb(199, 178, 151);
+    padding: 8px;
+}
+
+.items img {
+    width: 286px;
+    height: 286px;
+    border-radius: 10px;
+    margin: 7px;
+}
+
+.item-info {
+    margin: 0 14px;
+    margin-bottom: 0;
+}
+
+.item-info button {
+    border: none;
+    padding: 8px 30px;
+    border-radius: 20px;
+    font-size: 18px;
+    background-color: rgb(184, 130, 141);
+    color: rgb(154, 222, 168);
+    font-weight: bold;
+}
+
+.item-info button:hover {
+    background-color: rgb(222, 10, 10);
+}
