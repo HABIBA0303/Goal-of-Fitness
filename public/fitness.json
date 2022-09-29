@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "goblet squats",
+        "img": "https://www.builtlean.com/wp-content/uploads/2016/11/Globet-Squat-Heels-Up-e1480526228210.jpg",
+        "details": "This is a squat done while holding a weight in front of you (like a goblet), which adds more of a workout for your core and legs and also makes getting into the correct squat form much easier",
+        "age": "20-25",
+        "timerequired": 20
+    },
+    {
+        "id": 2,
+        "name": "Pallof Press",
+        "img": "https://barbend.com/wp-content/uploads/2016/11/BarBend-Article-Image-760-x-427-22-1.jpg",
+        "details": "This “anti-rotation” movement is challenging because you must resist rotation forcing your obliques, abs, lower back, and glutes to do the work.",
+        "age": "20-25",
+        "timerequired": 30
+    },
+    {
+        "id": 3,
+        "name": "Dumbbell Row",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT48jZR6Q79HFSQ4GSzSpmT-wH2yR-By9lydA&usqp=CAU",
+        "details": "The Dumbbell Row helps develop a strong back, arms and core. Plus, because it works your lats, traps, and rhomboids, it supports proper posture by pulling your shoulders back and helping to stabilize your spine.",
+        "age": "20-25",
+        "timerequired": 30
+    },
+    {
+        "id": 4,
+        "name": "Push-Ups",
+        "img": "https://cdn.mos.cms.futurecdn.net/cnPgSLG9sZppVdEei9MjUD-1200-80.jpg",
+        "details": "Push-Ups are a deceptively simple functional movement that works your upper-body muscles while engaging your core and allowing you to use the full range of motion in your shoulder blades",
+        "age": "20-25",
+        "timerequired": 15
+    },
+    {
+        "id": 5,
+        "name": "Lateral Squats",
+        "img": "https://www.byrdie.com/thmb/MHof4etiukT3kiFkRuUclpG6SQM=/1280x854/filters:fill(auto,1)/GettyImages-914609352-6d7cebc905ef4fb7a797cd258f471eb6-b0505ea5244c4056ab1facb94431de5f.jpg",
+        "details": "These are a combination of a lateral lunge and a squat, useful for stretching your groin and inner thighs while also targeting your hips, thighs, and core",
+        "age": "20-25",
+        "timerequired": 10
+    },
+    {
+        "id": 6,
+        "name": "Glute Bridges",
+        "img": "https://cdn.mos.cms.futurecdn.net/v5yonpPwiN3BpWZKSBUYCX.jpg",
+        "details": "This exercise helps train your glutes, which are often underutilized if you sit for long periods each day.",
+        "age": "20-25",
+        "timerequired": 45
+    }
+]
